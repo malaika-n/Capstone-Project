@@ -7,8 +7,8 @@ I completed programming the standard Recurrent Neural Network, tested the model,
 
 I taught myself the fundamentals while implementing the vector code (figure 1) and had to learn how to change the format of the data before inputting it into my model which was extremely difficult to grasp in the time I had. I used a dataset (Boston Housing Dataset) that was already formatted to ensure my model's accuracy and to compare the loss function between the RNN model (figure 5) and the LSTM model which is a subset of RNN (figure 3).
 
-I was successfully able to complete the backpropagation algorithm (figure 2):
-<img src="Files/img/fig 2.png" style="width:550px;">
+I was successfully able to complete the backpropagation algorithm:
+<img src="Files/img/backprop.png" style="width:550px;">
 
 Although it was extremely complicated to understand at first the diagrams helped in breaking down the concept. I also had to understand the functions of the packages required such as numpy, matplotlib, and Lincoln.
 
