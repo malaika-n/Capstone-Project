@@ -1,4 +1,7 @@
 # Capstone Project
+
+<center><img src="Files/img/CapstonePoster.png" style="width:400px;"></center>
+
 For my capstone project during the last year of my undergraduate program, I chose to implement a machine-learning model and test its accuracy.
 I completed programming the standard Recurrent Neural Network, tested the model, and ran it. I also implemented Long Short-Term Memory (LSTM), a type of RNN model (figure 3).
 
